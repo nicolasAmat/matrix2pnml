@@ -1,1 +1,1 @@
-# Matrix2PNML
+# matrix2pnml
